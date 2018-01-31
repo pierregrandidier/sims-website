@@ -5,7 +5,7 @@ permalink: network/pierre-grandidier/
 
 name:       Pierre Grandidier
 ns:         Croix-Rouge luxembourgeoise
-ns-img:     
+ns-img:     crlux.png
 position:   Relief ERU and Cash-IM
 image:      pierre-grandidier.jpg
 email:      grandidier@gmail.com
