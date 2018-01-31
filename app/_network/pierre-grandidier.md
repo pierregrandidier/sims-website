@@ -7,7 +7,7 @@ name:       Pierre Grandidier
 ns:         Croix-Rouge luxembourgeoise
 ns-img:     
 position:   Relief ERU and Cash-IM
-image:      
+image:      pierre-grandidier.jpg
 email:      grandidier@gmail.com
 github:     pierregrandidier
 osm:        pierregrandidier
